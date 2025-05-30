@@ -1,0 +1,21 @@
+.headerArea{
+    background: transparent;
+    width:100%;
+}
+.headerText{
+    color: green;
+    font-weight: 400;
+    margin: 0 .5em;
+    font-size: 3em;
+
+}
+.headerImgs{
+    color: green;
+    background: transparent;
+    width: 50px;
+    height: 60px;
+}
+.IconTxtArea{
+    padding: 15px 10px 0px 10px;
+    display: flex;
+}
